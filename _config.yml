@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "최서연"
-  avatar           : "/assets/images/cap.PNG"
+  avatar           : "assets/images/cap.PNG"
 "
   bio              : "hafsrer"
   location         : "대한민국, 용인"
